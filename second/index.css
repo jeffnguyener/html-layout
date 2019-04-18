@@ -44,19 +44,23 @@ body {
 }
 
 .box2-2 {
-    margin-top: 25px;
+    margin-top: 15px;
     margin-left: auto;
     margin-right: auto;
     background: ivory;
     width: 80%;
-    padding: 100px;
+    padding: 120px;
     box-sizing: border-box;
     -moz-box-align: center;
     box-shadow: 3px 5px 3px 5px rgb(60, 60, 60);
 }
 .box3 {
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
     width: 40%;
-    border: 1px solid black;
-    padding: 70px;
+    box-shadow: 3px 5px 3px 5px rgb(180, 180, 180);
+    padding: 80px;
     box-sizing: border-box;
+    text-align: center;
  }
