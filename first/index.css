@@ -1,0 +1,36 @@
+.header {
+    width: 100%;
+    height: 100px;
+    background: #565555;
+}
+
+
+.content-left {
+    width: 15%;
+    height: calc(100vh - 200px);
+    float: left;
+    background: lightgray;
+}
+
+
+.content-mid {
+    width: 66%;
+    height: cal(100vh - 200px);
+    background: #ffffff;
+}
+
+.content-right {
+    width: 15%;
+    height: calc(100vh - 200px);
+    float: right;
+    background: lightgray;
+}
+
+.footer {
+    width: calc(100vh - 2.95%);
+    height: 100px;
+    left: 195px;
+    background: rgb(36, 34, 34);
+    position: absolute;
+    bottom: 92px;
+}
