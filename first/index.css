@@ -1,3 +1,6 @@
+body {
+    margin: 0;
+}
 .header {
     width: 100%;
     height: 100px;
@@ -14,9 +17,9 @@
 
 
 .content-mid {
-    width: 66%;
-    height: cal(100vh - 200px);
-    background: #ffffff;
+    width: 70%;
+    height: calc(100vh - 300px);
+    background: white;
 }
 
 .content-right {
@@ -27,10 +30,10 @@
 }
 
 .footer {
-    width: calc(100vh - 2.95%);
+    width: 70%;
     height: 100px;
     left: 195px;
     background: rgb(36, 34, 34);
-    position: absolute;
-    bottom: 92px;
+    margin: auto;
+    bottom: 0;
 }
