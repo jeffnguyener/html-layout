@@ -1,0 +1,48 @@
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .row {
+    height: 100px;
+    width: 100%;
+  }
+  
+  .row-big {
+    height: 200px;
+    width: 100%;
+  }
+  
+  .row1 {
+    background-color: rgb(228, 225, 225);
+    padding: 25px;
+    box-sizing: border-box;
+  }
+  
+  .row-1-div {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(89, 160, 241);
+  }
+  
+  .row2 {
+    background-color: #fff;
+    box-sizing: border-box;
+    padding: 50px;
+  }
+  
+  .row3 {
+    background-color: rgb(89, 160, 241);
+  }
+  
+  .row4 {
+    background-color: rgb(59, 192, 163);
+  }
+  
+  .row5 {
+    background-color: rgb(154, 207, 100);
+  }
+  
+  .row6 {
+    background-color: rgb(228, 212, 44);
+  }
